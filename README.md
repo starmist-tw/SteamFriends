@@ -16,7 +16,6 @@
 
 | Avatar                                                                            | Name                      | steamid                                                                     | is_friend   | BFD                 | Remark   | removed_time        |
 |:----------------------------------------------------------------------------------|:--------------------------|:----------------------------------------------------------------------------|:------------|:--------------------|:---------|:--------------------|
-| ![](https://avatars.steamstatic.com/332794a282080f68a6b3a6f1cd319b2de94f631f.jpg) | apple                     | [76561199259156190](https://steamcommunity.com/profiles/76561199259156190/) | ❌           | 2025-01-11 16:40:06 |          | 2025-02-23 09:22:13 |
 | ![](https://avatars.steamstatic.com/235e254130a00604408c2167b7e2f683afcc0f55.jpg) | 七月5ama                    | [76561199179435962](https://steamcommunity.com/profiles/76561199179435962/) | ✅           | 2025-02-11 11:33:39 |          |                     |
 | ![](https://avatars.steamstatic.com/12cd4bdedb560629eae2d34f1dce749ca08bbb80.jpg) | 夜の向日葵                     | [76561199378325203](https://steamcommunity.com/profiles/76561199378325203/) | ✅           | 2025-02-17 12:27:29 |          |                     |
 | ![](https://avatars.steamstatic.com/245ccfeabe82a11181cdd812deb8c737c8b8f6b5.jpg) | Asto                      | [76561199388426875](https://steamcommunity.com/profiles/76561199388426875/) | ✅           | 2025-01-14 10:04:02 |          |                     |
